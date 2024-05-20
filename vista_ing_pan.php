@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Panes | Panadería</title>
+        <title>Pasteles | Pasteleria</title>
         <link href="../css/bootstrap.css" rel="stylesheet" type="text/css"/>
         <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <script src="../js/bootstrap.js" type="text/javascript"></script>

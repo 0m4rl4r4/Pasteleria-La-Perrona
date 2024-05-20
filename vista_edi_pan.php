@@ -59,12 +59,12 @@
                     <td> <input type="text" id="txtId" style="width:30%" name="txtId" class="form-control" value="<?php echo $fila['id_pan'] ?>" readonly=""  /> </td>
                 </tr>
                 <tr>
-                    <td class="hc" >Nombre de Pan</td>
+                    <td class="hc" >Nombre de Pastel</td>
                     <td> <input type="text" id="txtNom" name="txtNom" class="form-control" value="<?php echo $fila['nom_pan'] ?>" required="" /> </td>
                 </tr>
 
                 <tr>
-                    <td class="hc" >Descripción de Pan</td>
+                    <td class="hc" >Descripción de Pastel</td>
                     <td> <input type="text" id="txtDes" name="txtDes" class="form-control" value="<?php echo $fila['des_pan'] ?>" required="" /> </td>
                 </tr>
                 <tr>

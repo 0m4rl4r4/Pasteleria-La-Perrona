@@ -78,7 +78,7 @@ if($status == PHP_SESSION_NONE){
         <thead>
                 <tr>
                                 
-                    <th>PAN</th>
+                    <th>PASTEL</th>
                     <th>CANTIDAD</th>
                     <th>PRECIO</th>
                     <th>DESCTO</th>

@@ -12,7 +12,7 @@ if($status == PHP_SESSION_NONE){
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Pedido de compra | Panaderia</title>
+<title>Pedido de compra | Pasteleria</title>
 <meta name="description" content="Menu Ajax Demo..."/>
 <link rel="stylesheet" href="css/font-awesome.min.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
@@ -183,7 +183,7 @@ if($status == PHP_SESSION_NONE){
     <!-- Item de pedido -->
     <div class="row" style="margin-top:20px; color:blue;">
         <div class="col-4">
-            Selección de pan
+            Selección de pastel
         </div>
         <div class="col-2">
             Cantidad

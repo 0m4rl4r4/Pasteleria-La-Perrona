@@ -13,7 +13,7 @@ if ($_SESSION['idrol']!=1){
 <!doctype html>
 <html lang="es">
   <head>
-      <title>Panes | Panadería</title>
+      <title>pastel | Pasteleria</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -65,7 +65,7 @@ if ($_SESSION['idrol']!=1){
     <thead>
             <tr>
                 <th>ID</th>               
-                <th>PAN</th>
+                <th>Pastel</th>
                 <th>DESCRIPCIÓN</th>
                 <th>PRECIO</th>
                 <th>ESTADO</th>
@@ -78,7 +78,7 @@ if ($_SESSION['idrol']!=1){
         <tbody>
             <tr style="display:none;">
                 <th>ID</th>               
-                <th>PAN</th>
+                <th>PASTEL</th>
                 <th>DESCRIPCIÓN</th>
                 <th>PRECIO</th>
                 <th>ESTADO</th>
