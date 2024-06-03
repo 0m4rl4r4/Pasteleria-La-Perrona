@@ -70,11 +70,11 @@ if ($_SESSION['idrol']!=1){
   </head>
   <body>
     <div class="container">
-        <img src="../images/banner-panaderia.jpg" class="img-responsive" style="width: 100%;height: 300px">
+        <img src="../images/banner-panaderia2.jpg" class="img-responsive" style="width: 100%;height: 300px">
         <h3 style="text-align: center;margin-top: 30px;margin-bottom: 15px" >CLIENTES - TIENDAS</h3>
         <div class="row" style="float:right; margin-bottom:15px">
             <div class="col-sm-5">
-               <button onclick="window.history.back();" style="border: 1px solid #BDBDBD;" ><img src="../images/regresar.png" height="35" width="60">  </button>
+               <button onclick="location.href='../menu.php';" style="border: 1px solid #BDBDBD;" ><img src="../images/regresar.png" height="35" width="60">  </button>
                
             </div>
             
@@ -89,7 +89,7 @@ if ($_SESSION['idrol']!=1){
                 <th>TIP/DOC</th>
                 <th>NRO/DOC</th>
                 <th>CLIENTE</th>
-                <th>DISTRITO</th>
+            
                 <th>CORREO</th>
                 <th>ESTADO</th>
                 <th>Editar</th>
@@ -104,7 +104,7 @@ if ($_SESSION['idrol']!=1){
                 <td>TIP/DOC</td>
                 <td>NRO/DOC</td>
                 <td>CLIENTE</td>
-                <td>DISTRITO</td>
+                
                 <td>CORREO</td>
                 <td>ESTADO</td>
                 <td>Editar</td>
@@ -119,7 +119,7 @@ if ($_SESSION['idrol']!=1){
                         echo '<td>'.$reg['tipo_cliente'].'</td>'; 
                         echo '<td>'.$reg['nro_doc'].'</td>';
                         echo '<td>'.$reg['nombre'].'</td>';
-                        echo '<td>'.$reg['nom_dis'].'</td>';
+                        
                         echo '<td>'.$reg['correo'].'</td>';                       
                         echo '<td>'.$reg['estado'].'</td>';
                         echo '<td style="text-align:center"><a href="../Controlador/controlador_cliente.php?opcion=3&id='.$reg['id_cliente'].'"><img src="../images/editar.png" width=25 height=25></a></td>';

@@ -19,7 +19,7 @@
 
     <link rel="shortcut icon" href="images/All_logo.ico" type="image/vnd.microsoft.icon" />
 
-    <title>Panadería Lupita's Bakery</title>
+    <title>Panadería La Perrona</title>
   </head>
 
   <body>
@@ -29,10 +29,10 @@
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="icon ion-md-menu"></span>
     </button>
-    <img src="images/logo.png" class="img-fluid nav-logo-mobile" alt="Company Logo">
+    <img src="images/Logo.png" class="img-fluid nav-logo-mobile" alt="Company Logo">
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <div class="container">
-      	<img src="images/logo.png" class="img-fluid nav-logo-desktop" alt="Company Logo">
+      	<img src="images/Logo.png" class="img-fluid nav-logo-desktop" alt="Company Logo">
         <ul class="navbar-nav ml-auto nav-right" data-easing="easeInOutExpo" data-speed="1250" data-offset="65">
           <li class="nav-item nav-custom-link">
             <a class="nav-link" href="menu.php">Inicio <i class="icon ion-ios-arrow-forward icon-mobile"></i></a>
@@ -44,7 +44,7 @@
             <a class="nav-link" href="controlador/controlador_pedido.php?opcion=1">Pedidos <i class="icon ion-ios-arrow-forward icon-mobile"></i></a>
           </li>
           <li class="nav-item nav-custom-link">
-            <a class="nav-link" href="controlador/controlador_recojo.php?opcion=1">Recojo <i class="icon ion-ios-arrow-forward icon-mobile"></i></a>
+            <a class="nav-link" href="controlador/controlador_recojo.php?opcion=1">Entregas <i class="icon ion-ios-arrow-forward icon-mobile"></i></a>
           </li>
           <li class="nav-item nav-custom-link">
             <a class="nav-link" href="controlador/controlador_cliente.php?opcion=1">Clientes <i class="icon ion-ios-arrow-forward icon-mobile"></i></a>
@@ -52,9 +52,11 @@
           <li class="nav-item nav-custom-link">
             <a class="nav-link" href="controlador/controlador_seguridad.php?opcion=2">Usuarios <i class="icon ion-ios-arrow-forward icon-mobile"></i></a>
           </li>
+
           <li class="nav-item nav-custom-link">
-            <a class="nav-link" href="controlador/controlador_foto.php?opcion=1">Subir fotos <i class="icon ion-ios-arrow-forward icon-mobile"></i></a>
+            <a class="nav-link" href="registrese_dos.php">Registrar <i class="icon ion-ios-arrow-forward icon-mobile"></i></a>
           </li>
+
           <li class="nav-item nav-custom-link btn btn-demo-small">
             <a class="nav-link" href="index.html">Logout <i class="icon ion-ios-arrow-forward icon-mobile"></i></a>
           </li>
@@ -71,14 +73,14 @@
       <div class="row">
         <div class="col-md-5">
           <div class="content-box">
-            <span>INTRANET</span>
+            <span></span>
             <h2 style="color: #5F4C0B">CENTRO DE DATOS</h2>
-            <p>Sistema de ventas de canastas de panes</p>
+            <p>Sistema de ventas</p>
             
           </div>
         </div>
         <div class="col-md-7">
-            <img src="images/cesta_pan.jpg" class="img-fluid" alt="Demo image">
+            <img src="images/Pastel.png" class="img-fluid" alt="Demo image">
           
         </div>
       </div>
@@ -125,8 +127,8 @@
         </div>
         <div class="col-md-3">
           <h5>Tiendas</h5>
-          <p>Los clientes registrados tendrán un descuento según la venta realizadas, a menor devolución mayor descuento</p>
-          <p><a href="mailto:fabiola.huarcaya@unmsm.edu.pe" class="external-links">fabiola.huarcaya@unmsm.edu.pe</a></p>
+          <p></p>
+          <p><a href="" class="external-links"></a></p>
         </div>
       </div> 
       <div class="divider"></div>
@@ -138,7 +140,7 @@
             <a href="#"><i class="icon ion-logo-youtube"></i></a>
           </div>
           <div class="col-md-6 col-xs-12">
-            <small>2018 &copy; Todos los derechos reservados - Grupo Ingeniería de Software</small>
+            <small>  </small>
           </div>
       </div>
     </div>

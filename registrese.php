@@ -141,7 +141,7 @@ hr {
   <form class="modal-content" action="" method="POST">
     <div class="container">
     <img src="images/cesta_pan.jpg" alt="70" width="150"/>
-      <h4>Lupita's Bakery</h4>
+      <h4>Pasteleria La Perrona</h4>
       <h2 style="color:cornflowerblue">Registrese</h2>
       <hr>
       <div class="row">
@@ -153,7 +153,7 @@ hr {
                 </select>
           </div>
           <div class="col">
-            <label for=""><b>DNI / RUC</b></label>
+            <label for=""><b>DNI</b></label>
             <input type="text" placeholder="Ingrese documento" class="form-control" id="txtNro" name="txtNro" required>
           </div>
       </div>

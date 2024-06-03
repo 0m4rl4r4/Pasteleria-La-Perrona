@@ -86,7 +86,7 @@ if ($_SESSION['idrol']!=1){
   <body>
     <div class="container">
         <img src="../images/banner-panaderia.jpg" class="img-responsive" style="width: 100%;height: 300px">
-        <h3 style="text-align: center;margin-top: 20px;margin-bottom: 15px;color: #5F4C0B" >RECOJOS DE PANES EN PEDIDOS </h3>
+        <h3 style="text-align: center;margin-top: 20px;margin-bottom: 15px;color: #5F4C0B" >ENTREGAS DE PANES EN PEDIDOS </h3>
         <div class="row">
             <div class="col-6">
                 

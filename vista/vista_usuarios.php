@@ -52,7 +52,7 @@ if ($_SESSION['idrol']!=1){
   </head>
   <body>
     <div class="container">
-        <img src="../images/banner-panaderia.jpg" class="img-responsive" style="width: 100%;height: 300px">
+        <img src="../images/banner-panaderia2.jpg" class="img-responsive" style="width: 100%;height: 300px">
         <h3 style="text-align: center;margin-top: 30px;margin-bottom: 30px;color: #5F4C0B" >USUARIOS </h3>
         <div class="row">
             <div class="col-6">
@@ -60,7 +60,7 @@ if ($_SESSION['idrol']!=1){
                 
             </div>
             <div class="col-6" style="text-align:right">
-                <button onclick="volver();" style="border: 1px solid #BDBDBD;" ><img src="../images/regresar.png" height="35" width="60">  </button>
+                <button onclick="location.href='../menu.php';" style="border: 1px solid #BDBDBD;" ><img src="../images/regresar.png" height="35" width="60">  </button>
                 
             </div>
         </div>

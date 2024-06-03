@@ -94,7 +94,7 @@ if($status == PHP_SESSION_NONE){
             echo '<td>'.$tot_pan.' panes</td>';
             echo '<td></td>';
             echo '<td></td>';
-            echo '<td>'.$tot.' soles</td>';
+            echo '<td>'.$tot.' $</td>';
             echo '<td></td>';
             echo '</tr>';
             

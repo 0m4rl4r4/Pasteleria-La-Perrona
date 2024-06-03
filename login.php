@@ -14,7 +14,7 @@
             <div class="card-body">
                 <form class="form-login" id="frmLogin" name="frmLogin" action="controlador/controlador_seguridad.php?opcion=1" method="POST" > 
                     <div class="form-group text-center" >
-                        <h2 style="margin-bottom: 20px; color: #5F4C0B">Lupita's Bakery</h2>
+                        <h2 style="margin-bottom: 20px; color: #5F4C0B"">Pasteleria La Perrona</h2>
                         <img src="images/cesta_pan_semilla.jpg" height="150" width="100%"/>                        
                     </div>
                     <div class="form-group" style="padding-top: 15px; margin-left:20px; margin-right:20px">
@@ -22,7 +22,7 @@
                         <input type="text" name="txtUsu" id="txtUsu" placeholder="Introduzca nombre de usuario" class="form-control">
                     </div>
                     <div class="form-group" style="margin-bottom: 10px;padding-top: 15px;margin-left:20px;margin-right:20px">
-                        <label for="" style="margin-bottom: 10px; color: #5F4C0B" >Contraseña</label>
+                        <label for="" style="margin-bottom: 10px; color: #5F4C0B"" >Contraseña</label>
                         <input type="password" name="txtCon" id="txtCon" placeholder="Introduzca contraseña" class="form-control">
                     </div>
                     <div class="form-group" style="margin-bottom: 20px;padding-top: 10px;margin-left:20px;margin-right:20px">

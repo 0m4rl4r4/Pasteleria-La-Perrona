@@ -42,7 +42,7 @@
         <h3 style="text-align: center;margin-top: 30px;margin-bottom: 30px" >PANES - Edición </h3>
         <div class="row">
             <div class="col-sm-5">
-                <button class="btn btn-warning" onclick="window.close()" >Regresar</button>
+                <button class="btn btn-warning" onclick="menu.php" >Regresar</button>
                 
             </div>
             
